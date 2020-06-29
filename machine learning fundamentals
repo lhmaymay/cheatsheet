@@ -1,3 +1,5 @@
+1.	Bias variance trade off
+
 what is decision tree? split criteria? bagging vs boosting? lightGBM?
 
 overfitting, how to prevent?
@@ -8,4 +10,17 @@ Gradient descent
 
 
 NN, gradient vanishing 
+
+
+
+	Gradient descent
+	NN: gradient vanishing
+	Overfitting
+	Regularization
+	K means clustering, elbow approach, distortion. 
+	What is decision tree. Difference between bagging and boosting
+	Reinforcement learning
+	Drop out
+	Early stopping 
+
 
